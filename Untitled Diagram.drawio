@@ -54,7 +54,7 @@
             <mxPoint x="350" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZV9hn9qBUokX4URhQvR-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/file-search-alt-128.png" vertex="1" parent="1">
+        <mxCell id="AZV9hn9qBUokX4URhQvR-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/file-search-alt-128.png;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="320" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="AZV9hn9qBUokX4URhQvR-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;flowAnimation=1;" edge="1" parent="1">
@@ -63,7 +63,7 @@
             <mxPoint x="592" y="560.0000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZV9hn9qBUokX4URhQvR-39" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_Remove_128x128.png" vertex="1" parent="1">
+        <mxCell id="AZV9hn9qBUokX4URhQvR-39" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_Remove_128x128.png;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="529.74" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AZV9hn9qBUokX4URhQvR-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;flowAnimation=1;" edge="1" parent="1" source="AZV9hn9qBUokX4URhQvR-41">
@@ -71,10 +71,10 @@
             <mxPoint x="230" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZV9hn9qBUokX4URhQvR-41" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+        <mxCell id="AZV9hn9qBUokX4URhQvR-41" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AZV9hn9qBUokX4URhQvR-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="1">
+        <mxCell id="AZV9hn9qBUokX4URhQvR-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="500" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AZV9hn9qBUokX4URhQvR-48" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=email_security;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
@@ -83,7 +83,7 @@
         <mxCell id="AZV9hn9qBUokX4URhQvR-49" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;gradientColor=#7ea6e0;fillStyle=solid;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="30" height="16.5" as="geometry" />
         </mxCell>
-        <mxCell id="AZV9hn9qBUokX4URhQvR-50" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;" vertex="1" parent="1">
+        <mxCell id="AZV9hn9qBUokX4URhQvR-50" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="472.65" width="50" height="54.69" as="geometry" />
         </mxCell>
         <mxCell id="AZV9hn9qBUokX4URhQvR-53" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.pointer;rotation=-105;" vertex="1" parent="1">
@@ -104,7 +104,7 @@
             <mxPoint x="154.42857142857156" y="673.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZV9hn9qBUokX4URhQvR-55" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Azure_OpenAI.svg;" vertex="1" parent="1">
+        <mxCell id="AZV9hn9qBUokX4URhQvR-55" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Azure_OpenAI.svg;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="535.74" y="640" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="AZV9hn9qBUokX4URhQvR-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;flowAnimation=1;" edge="1" parent="1">
@@ -116,7 +116,7 @@
         <mxCell id="AZV9hn9qBUokX4URhQvR-59" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#d6b656;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="50" y="472.65" width="30" height="16.5" as="geometry" />
         </mxCell>
-        <mxCell id="AZV9hn9qBUokX4URhQvR-62" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="1">
+        <mxCell id="AZV9hn9qBUokX4URhQvR-62" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;imageBackground=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="535.74" y="760" width="68" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AZV9hn9qBUokX4URhQvR-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.047;entryY=1.035;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;flowAnimation=1;" edge="1" parent="1" source="AZV9hn9qBUokX4URhQvR-50" target="AZV9hn9qBUokX4URhQvR-15">
@@ -179,7 +179,7 @@
         <mxCell id="AZV9hn9qBUokX4URhQvR-95" value="&lt;i style=&quot;font-weight: normal;&quot;&gt;(User - AI Communication)&lt;/i&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="92" y="701" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AZV9hn9qBUokX4URhQvR-92" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/communication.svg;" vertex="1" parent="1">
+        <mxCell id="AZV9hn9qBUokX4URhQvR-92" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=1;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/communication.svg;" vertex="1" parent="1">
           <mxGeometry x="92" y="640" width="59" height="59" as="geometry" />
         </mxCell>
         <mxCell id="AZV9hn9qBUokX4URhQvR-121" value="" style="endArrow=none;dashed=1;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
