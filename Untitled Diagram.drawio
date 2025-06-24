@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AZV9hn9qBUokX4URhQvR-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerAutomate.svg;strokeWidth=7;" parent="1" vertex="1">
-          <mxGeometry x="-4790" y="-86.00000000000003" width="164.19" height="130" as="geometry" />
+          <mxGeometry x="-4808" y="-80.17" width="164.19" height="130" as="geometry" />
         </mxCell>
         <mxCell id="AZV9hn9qBUokX4URhQvR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;flowAnimation=1;strokeWidth=7;" parent="1" source="AZV9hn9qBUokX4URhQvR-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -208,10 +208,10 @@
             <mxPoint x="-3684" y="-396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZV9hn9qBUokX4URhQvR-129" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;flowAnimation=0;strokeWidth=7;" parent="1" edge="1">
+        <mxCell id="AZV9hn9qBUokX4URhQvR-129" value="no" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;flowAnimation=0;strokeWidth=7;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4630.999999999999" y="-14.759999999999991" as="sourcePoint" />
-            <mxPoint x="-4464" y="-15" as="targetPoint" />
+            <mxPoint x="-2856.999999999999" y="-50.75999999999999" as="sourcePoint" />
+            <mxPoint x="-2690" y="-51" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
